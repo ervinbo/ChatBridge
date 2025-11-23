@@ -1,0 +1,7 @@
+{
+  "name": "ChatBridge",
+  "description": "Real-time translator between Serbian and Turkish with voice input and auto-speech output using Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
